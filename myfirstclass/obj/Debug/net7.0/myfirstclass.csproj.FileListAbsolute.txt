@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\myfirstclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\myfirstclass.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\myfirstclass.AssemblyInfo.cs
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\myfirstclass.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\bin\Debug\net7.0\myfirstclass.exe
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\bin\Debug\net7.0\myfirstclass.deps.json
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\bin\Debug\net7.0\myfirstclass.runtimeconfig.json
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\bin\Debug\net7.0\myfirstclass.dll
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\bin\Debug\net7.0\myfirstclass.pdb
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\myfirstclass.dll
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\refint\myfirstclass.dll
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\myfirstclass.pdb
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\myfirstclass.genruntimeconfig.cache
+C:\Users\HP\Desktop\myConsoleApp\myfirstclass\obj\Debug\net7.0\ref\myfirstclass.dll
